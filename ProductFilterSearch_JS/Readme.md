@@ -16,4 +16,21 @@
 
 <br/>
 
-## Glimpses
+## **Glimpses**
+
+`All Products`
+
+![all](/images/all.png)
+
+<br/>
+
+`Filter by Category`
+
+![filter](/images/filterBycategory.png)
+![filter](/images/categoryFilter.png)
+
+<br/>
+
+`Search by typing`
+
+![search](/images/searchFilter.png)
