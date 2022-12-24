@@ -16,7 +16,7 @@ let products = {
       productName: "",
       category: "Bottomwear",
       price: "313",
-      image: "",
+      image: "images/b7.png",
     },
     {
       productName: "",
@@ -34,13 +34,13 @@ let products = {
       productName: "",
       category: "Bottomwear",
       price: "313",
-      image: "",
+      image: "images/b5.png",
     },
     {
       productName: "",
       category: "Bottomwear",
       price: "313",
-      image: "",
+      image: "images/b4.png",
     },
     {
       productName: "",
@@ -76,25 +76,25 @@ let products = {
       productName: "",
       category: "Bottomwear",
       price: "313",
-      image: "",
+      image: "images/b1.png",
     },
     {
       productName: "",
       category: "Bottomwear",
       price: "313",
-      image: "",
+      image: "images/b6.png",
     },
     {
       productName: "",
       category: "Bottomwear",
       price: "313",
-      image: "",
+      image: "images/b2.png",
     },
     {
       productName: "",
       category: "Bottomwear",
       price: "313",
-      image: "",
+      image: "images/b3.png",
     },
     {
       productName: "",
@@ -131,6 +131,18 @@ let products = {
       category: "Topwear",
       price: "349",
       image: "images/top1.png",
+    },
+    {
+      productName: "Women Solid Dress",
+      category: "Topwear",
+      price: "349",
+      image: "images/top7.png",
+    },
+    {
+      productName: "Women Solid Dress",
+      category: "Topwear",
+      price: "349",
+      image: "images/top8.png",
     },
   ],
 };
