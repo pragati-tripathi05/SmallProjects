@@ -89,3 +89,29 @@ img{
     color: #05363d;
 }
 
+.container h5{
+    font-weight: 500;
+}
+
+.hide{
+    display: none;
+}
+
+
+/* --------Responsiveness-------- */
+
+@media screen  and (max-width) {
+    img{
+        max-width: 100%;
+        object-fit: contain;
+        height: 10em;
+    }
+    .card{
+        max-width: 10em;
+        margin-top: 1em;
+    }
+    #products{
+        grid-template-columns: auto auto;
+        grid-column-gap: 1em;
+    }
+}

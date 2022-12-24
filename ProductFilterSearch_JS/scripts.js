@@ -150,8 +150,8 @@ let products = {
 for (let i of products.data) {
   // Creating card
   let card = document.createElement("div");
-  // Category in card,image
-  card.classList.add("card", "i.category");
+  // Category in card,image, category is hidden initially
+  card.classList.add("card", "i.category", "hide");
   let imgContainer = document.createElement("div");
   imgContainer.classList.add("image-container");
   let image = document.createElement("img");
@@ -175,3 +175,22 @@ for (let i of products.data) {
   card.appendChild(container);
   document.getElementById("products").appendChild(card);
 }
+
+// Parameter passed from the button(parameter same as category)
+function filterProduct(value) {
+  // Button class code
+  let buttons = document.querySelectorAll(".button-value");
+  buttons.forEach((button) => {
+    //Check if the value equals the innerText
+    if (value.toUpperCase() == button.innerText.toUpperCase()) {
+      button.classList.add("active");
+    } else {
+      button.classList.remove("active");
+    }
+  });
+}
+
+// Initially displaying all the products
+window.onload = () => {
+  filterProduct("all");
+};
