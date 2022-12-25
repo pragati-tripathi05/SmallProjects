@@ -17,7 +17,10 @@
 ### **Glimpses**
 
 `Closed Menu`
-![iconsonly]()
+![iconsonly](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/closed.png)
 
 `Opened Menu Items`
-![menuitems]()
+![menuitems](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/1.png)
+![menuitems](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/2.png)
+![menuitems](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/3.png)
+![menuitems](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/4.png)
