@@ -20,17 +20,17 @@
 
 `All Products`
 
-![all](/images/all.png)
+![all](https://github.com/pragati-tripathi05/SmallProjects/blob/master/ProductFilterSearch_JS/images/all.png)
 
 <br/>
 
 `Filter by Category`
 
-![filter](/images/filterBycategory.png)
-![filter](/images/categoryFilter.png)
+![filter](https://github.com/pragati-tripathi05/SmallProjects/blob/master/ProductFilterSearch_JS/images/filterBycategory.png)
+![filter](https://github.com/pragati-tripathi05/SmallProjects/blob/master/ProductFilterSearch_JS/images/categoryFilter.png)
 
 <br/>
 
 `Search by typing`
 
-![search](/images/searchFilter.png)
+![search](https://github.com/pragati-tripathi05/SmallProjects/blob/master/ProductFilterSearch_JS/images/searchFilter.png)
