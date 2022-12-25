@@ -4,12 +4,62 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Logo -->
+    <link rel="shortcut icon" href="/logo.png" />
+
+    <!-- Icons : Ionicons -->
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="/styles.css" />
+
     <title>Sidebar</title>
   </head>
+
   <body>
     <div class="navigation">
+      <!-- Top Hamburger Menu which opens and closes sidebar -->
       <div class="menuToggle"></div>
+
+      <!-- Menu items -->
+      <ul>
+        <li class="list">
+          <a href="#" style="--clr: #f44336">
+            <span class="icon"><ion-icon name="home"></ion-icon></span>
+            <span class="text">Home</span>
+          </a>
+        </li>
+
+        <li class="list">
+          <a href="#" style="--clr: #ffa117">
+            <span class="icon"><ion-icon name="people"></ion-icon></span>
+            <span class="text">About</span>
+          </a>
+        </li>
+
+        <li class="list">
+          <a href="#" style="--clr: #0fc170">
+            <span class="icon"><ion-icon name="chatboxes"></ion-icon></span>
+            <span class="text">Messages</span>
+          </a>
+        </li>
+
+        <li class="list">
+          <a href="#" style="--clr: #2196f3">
+            <span class="icon"><ion-icon name="images"></ion-icon></span>
+            <span class="text">Photos</span>
+          </a>
+        </li>
+
+        <li class="list">
+          <a href="#" style="--clr: #b145e9">
+            <span class="icon"><ion-icon name="settings"></ion-icon></span>
+            <span class="text">Settings</span>
+          </a>
+        </li>
+      </ul>
     </div>
   </body>
+  <script src="/script.js"></script>
 </html>
