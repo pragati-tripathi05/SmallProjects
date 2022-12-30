@@ -1,7 +1,6 @@
 # SmallProjects
 This repo contains a few small projects like 
 ### <li> a product filter & search: **https://filter-search-nine.vercel.app/**, </li>
-### <li> an autocomplete search bar, curved side-bar </li>
 ### <li> a sidebar: **https://html-css-side-menu.netlify.app/** </li>
 
 <br/>
