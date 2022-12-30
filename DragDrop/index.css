@@ -13,6 +13,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     padding: 20px;
+    color: y;
 }
 
 .wrapper{
@@ -23,7 +24,7 @@ body{
     padding: 25px;
 }
 
-.wrapper h1{
+.wrapper h1,h5{
     text-align: center;
     margin-bottom: 3%;
 }

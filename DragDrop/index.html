@@ -21,11 +21,12 @@
     ></script>
 
     <link rel="stylesheet" href="/index.css" />
-    <title>Document</title>
+    <title>Drag'n'Drop</title>
   </head>
   <body>
     <div class="wrapper">
       <h1>Drag'n'Drop</h1>
+      <h5><a href="/dragDrop.html">Click here for another example</a></h5>
       <div class="item">
         <ion-icon name="menu"></ion-icon>
         <span class="text">Item1</span>
@@ -48,11 +49,4 @@
       </div>
     </div>
   </body>
-  <script>
-    const dragArea = document.querySelector(".wrapper");
-    new Sortable(dragArea, {
-      // Animation speed moving items when sorting
-      animation: 350,
-    });
-  </script>
 </html>

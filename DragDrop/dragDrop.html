@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+    <title>Drag'n'Drop</title>
+  </head>
+
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+    h3 {
+      font-size: 15px;
+      font-family: "Roboto", sans-serif;
+    }
+
+    .container {
+      display: flex;
+      justify-content: flex-start;
+    }
+
+    .container .element {
+      width: 100px;
+      height: 100px;
+      border-radius: 40%;
+      margin: 5px;
+    }
+  </style>
+
+  <body onload="move('element')">
+    <h3>
+      <a href="/index.html"
+        ><ion-icon name="arrow-round-back"></ion-icon>Back</a
+      >
+    </h3>
+    <div class="container">
+      <div class="element" style="background-color: salmon"></div>
+      <div class="element" style="background-color: goldenrod"></div>
+      <div class="element" style="background-color: greenyellow"></div>
+      <div class="element" style="background-color: blueviolet"></div>
+    </div>
+  </body>
+
+  <script>
+    var chooseElement;
+
+    const move = function (element) {
+      const elements = document.querySelectorAll(".element");
+
+      elements.forEach((element) => {
+        element.addEventListener("mousedown", () => {
+          element.style.position = "absolute";
+          chooseElement = element;
+
+          document.onmousemove = (event) => {
+            var x = event.pageX;
+            var y = event.pageY;
+
+            chooseElement.style.left = x - 50 + "px";
+            chooseElement.style.top = y - 50 + "px";
+          };
+        });
+      });
+
+      document.onmouseup = function (e) {
+        chooseElement = null;
+      };
+    };
+  </script>
+</html>
