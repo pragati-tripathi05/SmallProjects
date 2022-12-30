@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.wrapper{
+    border: 2px solid palegreen;
+    width: 50%;
+    background-color: aquamarine;
+    border-radius: 3px;
+    padding: 25px;
+}
+
+.wrapper h1{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.wrapper .item{
+    background-color: aliceblue;
+    display: flex;
+    border-radius: 3px;
+    padding: 12px 17px;
+    margin-bottom: 8px;
+    align-items: center;
+}
+
+.wrapper .item:last-child{
+    margin-bottom: 0px;
+}
+
+ion-icon{
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.text{
+    font-size: 20px;
+    margin-left: 3%;
+}
