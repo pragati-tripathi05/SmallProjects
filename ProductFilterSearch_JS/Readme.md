@@ -20,17 +20,20 @@
 
 `All Products`
 
-![all](https://github.com/pragati-tripathi05/SmallProjects/blob/master/ProductFilterSearch_JS/images/all.png)
+![all](https://user-images.githubusercontent.com/97211835/210132938-b7668414-a0fa-4718-aeca-c9c4dabe27d8.png)
 
 <br/>
 
 `Filter by Category`
 
-![filter](https://github.com/pragati-tripathi05/SmallProjects/blob/master/ProductFilterSearch_JS/images/filterBycategory.png)
-![filter](https://github.com/pragati-tripathi05/SmallProjects/blob/master/ProductFilterSearch_JS/images/categoryFilter.png)
+![filterBycategory](https://user-images.githubusercontent.com/97211835/210132946-f305ac28-069e-4f9d-b184-58f1333f900f.png)
+
+![categoryFilter](https://user-images.githubusercontent.com/97211835/210132950-98b23002-5f82-46e6-944f-ab56d1be5f4f.png)
+
 
 <br/>
 
 `Search by typing`
 
-![search](https://github.com/pragati-tripathi05/SmallProjects/blob/master/ProductFilterSearch_JS/images/searchFilter.png)
+
+![searchFilter](https://user-images.githubusercontent.com/97211835/210132956-0b369672-397f-4164-b78e-f77bdca56276.png)

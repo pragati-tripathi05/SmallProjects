@@ -18,11 +18,11 @@
 
 `Closed Menu`
 
-![iconsonly](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/closed.png)
+![iconsonly](https://user-images.githubusercontent.com/97211835/210952736-727804eb-60b0-4b84-97bf-bf60fa48c0e7.png)
 
 `Opened Menu Items`
 
-![menuitems](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/1.png)
-![menuitems](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/2.png)
-![menuitems](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/3.png)
-![menuitems](https://github.com/pragati-tripathi05/SmallProjects/blob/master/CurvedSideMenu/ss/4.png)
+![menuitems](https://user-images.githubusercontent.com/97211835/210952812-863b519c-e69d-4f2a-af25-61344758c954.png)
+![menuitems](https://user-images.githubusercontent.com/97211835/210952819-f98b4eb1-6d5b-4d85-aad4-cbc241e0008e.png)
+![menuitems](https://user-images.githubusercontent.com/97211835/210952837-90144014-2d3b-4165-b98c-b16c7c0fd6f3.png)
+![menuitems](https://user-images.githubusercontent.com/97211835/210952846-d7ffce5b-01c2-4198-9128-58d643af22d5.png)
